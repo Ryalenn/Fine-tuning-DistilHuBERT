@@ -92,7 +92,7 @@ cd YOUR_REPOSITORY
 Launch Jupyter Notebook or Google Colab and open:
 
 ```text
-transformer_fine_tune.ipynb
+DistilHuBERT_fine_tune.ipynb
 ```
 
 ### 3. Run the notebook cells
